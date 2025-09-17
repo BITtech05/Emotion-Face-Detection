@@ -42,13 +42,14 @@ chmod +x setup.sh
 ```bash
 python setup.py
 ```
-
+### Method 3: Virtual Environment Setup (Recommended for Developers)
+-----
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/emotion-recognition-system.git
 cd emotion-recognition-system
-
+```
 
 ### 2. Set Up Virtual Environment
 
