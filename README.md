@@ -32,21 +32,23 @@ You can set up the project in multiple ways:
 ```bash
 # Windows
 setup.bat
-
+```
+```bash
 # macOS/Linux
 chmod +x setup.sh
 ./setup.sh
-
+```
 ### Method 2: Manual but Quick Setup
+```bash
 python setup.py
-
+```
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/emotion-recognition-system.git
 cd emotion-recognition-system
-```
+
 
 ### 2. Set Up Virtual Environment
 
