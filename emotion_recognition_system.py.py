@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Improved Real-Time Emotion and Identity Recognition System
+Real-Time Emotion and Identity Recognition System
 With Valence-Arousal Graph Implementation
 """
 
