@@ -15,7 +15,6 @@ A comprehensive real-time face recognition system that detects emotions, identif
 ## Demo
 <img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/89c09b8f-7c66-4e17-be61-5bdcdbdef75c" />
 
-![System Interface]
 *Real-time emotion detection with mood tracking and valence-arousal visualization*
 
 ## Requirements
