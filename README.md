@@ -25,6 +25,22 @@ A comprehensive real-time face recognition system that detects emotions, identif
 
 ## Quick Start
 
+You can set up the project in multiple ways:
+
+### Method 1: Quick Setup (Recommended)
+
+```bash
+# Windows
+setup.bat
+
+# macOS/Linux
+chmod +x setup.sh
+./setup.sh
+
+### Method 2: Manual but Quick Setup
+python setup.py
+
+
 ### 1. Clone the Repository
 
 ```bash
