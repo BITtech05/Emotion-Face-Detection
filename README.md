@@ -47,7 +47,7 @@ python setup.py
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/emotion-recognition-system.git
+git clone https://github.com/BITtech05/Emotion-Face-Detection.git
 cd emotion-recognition-system
 ```
 
